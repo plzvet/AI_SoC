@@ -28,13 +28,16 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=5
+current_page=8
 FILE_NAME_0=107;C;0;EUTF-8;1;1;0;%2Fhome%2Fjk%2FWork%2FCTest%2Ftest.c;0;4
 FILE_NAME_1=165;Python;0;EUTF-8;1;1;0;%2Fhome%2Fjk%2FWork%2Fcvtest%2Fcvtest.py;0;4
 FILE_NAME_2=1142;Python;0;EUTF-8;1;1;0;%2Fhome%2Fjk%2FWork%2Fcvtest%2Fcvtest2.py;0;4
 FILE_NAME_3=49;None;0;EUTF-8;1;1;0;%2Fhome%2Fjk%2FWork%2FYolotest%2Fytest.geany;0;4
 FILE_NAME_4=337;Python;0;EUTF-8;1;1;0;%2Fhome%2Fjk%2FWork%2FYolotest%2Fytest.py;0;4
-FILE_NAME_5=276;Python;0;EUTF-8;1;1;0;%2Fhome%2Fjk%2FWork%2FYolotest%2Fyolo_hw1.py;0;4
+FILE_NAME_5=513;Python;0;EUTF-8;1;1;0;%2Fhome%2Fjk%2FWork%2FYolotest%2Fyolo_hw1.py;0;4
+FILE_NAME_6=100;Sh;0;EUTF-8;1;1;0;%2Fhome%2Fjk%2FWork%2Fgitauto.sh;0;4
+FILE_NAME_7=0;Sh;0;EUTF-8;0;1;0;%2Fhome%2Fjk%2FWork%2Fgithub_up.sh;0;2
+FILE_NAME_8=84;Python;0;EUTF-8;1;1;0;%2Fhome%2Fjk%2FWork%2FGstream%2Fgstream.py;0;4
 
 [VTE]
 last_dir=/home/jk
